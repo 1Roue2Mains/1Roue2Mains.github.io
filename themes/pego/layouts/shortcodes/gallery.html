@@ -1,6 +1,6 @@
-{{ $path := printf "/gallery/%s/" (.Get 0) }}
+{{ $path := printf "gallery/%s/" (.Get 0) }}
 <div class="grid">
-{{ range readDir (printf "static%s" $path) }}
+{{ range readDir (printf "static/%s" $path) }}
   <div>
     <img class="img" src="{{ $path }}{{ .Name }}">
   </div>
