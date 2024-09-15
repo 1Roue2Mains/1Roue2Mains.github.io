@@ -1,8 +1,140 @@
 {{ $path := printf "gallery/%s/" (.Get 0) }}
 <div class="grid">
 {{ range readDir (printf "static/%s" $path) }}
-  <div>
-    <img class="img" src="{{ $path }}{{ .Name }}">
+<div class="flip-card-container">
+<div class="flip-card">
+  <div class="card-front">
+    <figure>
+      {{ $img_src := resources.GetMatch (printf "gallery/main/%s" .Name) }}
+      {{ if $img_src }}
+      <link rel="preload" as='"image' srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
+      <img class="feature-image img"
+        srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
+        sizes="(max-width: 600px) 480px, 800px"
+        src="{{ ($img_src.Resize "500x webp").Permalink }}"
+        alt="">
+      {{ end }}
+    </figure>
   </div>
+  <div class="card-back">
+    <h3>Mon titre</h3>
+    <p>Lorem</p>
+  </div>
+</div>
+</div>
 {{ end }}
 </div>
+
+
+
+<style>
+/* .flip-card-container */
+.flip-card-container {
+  --hue: 150;
+  --primary: hsl(var(--hue), 50%, 50%);
+  --white-1: hsl(0, 0%, 90%);
+  --white-2: hsl(0, 0%, 80%);
+  --dark: hsl(var(--hue), 25%, 10%);
+  --grey: hsl(0, 0%, 50%);
+
+  width: 100%;
+  height: 500px;
+
+  perspective: 1000px;
+}
+
+/* .flip-card */
+.flip-card {
+  width: inherit;
+  height: inherit;
+
+  position: relative;
+  transform-style: preserve-3d;
+  transition: .6s .1s;
+}
+
+/* hover and focus-within states */
+.flip-card-container:hover .flip-card,
+.flip-card-container:focus-within .flip-card {
+  transform: rotateY(180deg);
+}
+
+/* .card-... */
+.card-front,
+.card-back {
+  width: 100%;
+  height: 100%;
+  border-radius: 24px;
+  color: #fefefe;
+
+  background: var(--dark);
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+
+  backface-visibility: hidden;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* .card-front */
+.card-front {
+  transform: rotateY(0deg);
+  z-index: 2;
+}
+
+/* .card-back */
+.card-back {
+  transform: rotateY(180deg);
+  z-index: 1;
+}
+
+/* figure */
+figure {
+  z-index: -1;
+}
+
+/* figure */
+figure {
+  position: absolute;
+  top: 1000;
+  left: 1000;
+
+  width: 100%;
+  height: 100%;
+}
+
+/* img */
+.flip-card-container img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: 24px;
+}
+
+/* figcaption */
+figcaption {
+  display: block;
+
+  width: auto;
+  margin-top: 12%;
+  padding: 8px 22px;
+
+  font-weight: bold;
+  line-height: 1.6;
+  letter-spacing: 2px;
+  word-spacing: 6px;
+  text-align: right;
+
+  position: absolute;
+  top: 0;
+  right: 12px;
+
+  color: var(--white-1);
+  background: hsla(var(--hue), 25%, 10%, .5);
+}
+</style>
