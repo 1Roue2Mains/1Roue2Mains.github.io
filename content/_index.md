@@ -12,6 +12,5 @@ disableKinds:
   - accessibility
 ---
 
-{{< gallery main >}}
 
 

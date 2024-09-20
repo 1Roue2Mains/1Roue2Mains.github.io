@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="container">
+  <section class="page-header--c">
+    <h1 class="page-header-title">{{ .Title }}</h1>
+  </section>
+</div>
+<section class="generic-single">
+  <div class="single-container markdown">
+    {{ if .Content }}<h2>Présentation</h2>{{ end }}
+    {{ .Content }}
+
+    {{ with (.Resources.ByType "image") }}
+    <h2>Gallerie</h2>
+    <div class="grid">
+      {{ range . }}
+        <figure>
+        {{ $img_src := $.Resources.GetMatch . }}
+        {{ if $img_src }}
+        <link rel="preload" as='"image' srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
+        <img class="feature-image img"
+          srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
+          sizes="(max-width: 600px) 480px, 800px"
+          src="{{ ($img_src.Resize "500x webp").Permalink }}"
+          alt="">
+        {{ end }}
+      </figure>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

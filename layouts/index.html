@@ -1,33 +1,33 @@
-{{ $path := printf "gallery/%s/" (.Get 0) }}
+{{ define "main" }}
+<div class="container--sm">
 <div class="grid">
-{{ range readDir (printf "static/%s" $path) }}
-<div class="flip-card-container">
-<div class="flip-card">
-  <div class="card-front">
-    <figure>
-      {{ $img_src := resources.GetMatch (printf "gallery/main/%s" .Name) }}
-      {{ if $img_src }}
-      <link rel="preload" as='"image' srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
-      <img class="feature-image img"
-        srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
-        sizes="(max-width: 600px) 480px, 800px"
-        src="{{ ($img_src.Resize "500x webp").Permalink }}"
-        alt="">
-      {{ end }}
-    </figure>
+  {{/* Shortcodes from page content  */}}
+  {{ range where (where .Site.Pages ".Section" "oeuvres") "Kind" "page" }}
+  <div class="flip-card-container">
+  <div class="flip-card">
+    <div class="card-front">
+      <figure>
+        {{ $img_src := .Resources.GetMatch (delimit (first 1 (.Resources.ByType "image")) "") }}
+        {{ if $img_src }}
+        <link rel="preload" as='"image' srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
+        <img class="feature-image"
+          srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
+          sizes="(max-width: 600px) 480px, 800px"
+          src="{{ ($img_src.Resize "500x webp").Permalink }}"
+          alt="">
+        {{ end }}
+      </figure>
+    </div>
+    <div class="card-back">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <p>Lorem</p>
+    </div>
   </div>
-  <div class="card-back">
-    <h3><a href="#">Mon titre</a></h3>
-    <p>Lorem</p>
   </div>
-</div>
-</div>
-{{ end }}
-</div>
-
-
-
-<style>
+  {{ end }}
+  </div>
+  <hr>
+  <style>
 /* .flip-card-container */
 .flip-card-container {
   --hue: 150;
@@ -41,6 +41,15 @@
   height: 500px;
 
   perspective: 1000px;
+}
+
+.flip-card-container a {
+  color: #fff;
+}
+
+.flip-card-container a:hover {
+  color: #aaa;
+  text-decoration: underline;
 }
 
 /* .flip-card */
@@ -147,3 +156,7 @@ figcaption {
   background: hsla(var(--hue), 25%, 10%, .5);
 }
 </style>
+
+  {{ partialCached "content.html" .Content .Content }}
+</div>
+{{ end }}
