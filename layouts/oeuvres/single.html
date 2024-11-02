@@ -8,13 +8,15 @@
   <div class="single-container markdown">
     {{ if .Content }}<h2>Présentation</h2>{{ end }}
     {{ .Content }}
-
+    {{ $path := printf "/essences/%s/" .Params.essence }}
+    {{ $key := ((index (where ($.Site.GetPage "essences").Pages "RelPermalink" "in" (slice $path)) 0).Resources) }}
+    {{ $images := cond (not $key) slice $key }}
     {{ with (.Resources.ByType "image") }}
-    <h2>Gallerie</h2>
+    <h2>Galerie</h2>
     <div class="grid">
-      {{ range . }}
+      {{ range (shuffle (cond (gt (len $images) 0) (union . $images) .)) }}
         <figure>
-        {{ $img_src := $.Resources.GetMatch . }}
+        {{ $img_src := . }}
         {{ if $img_src }}
         <link rel="preload" as='"image' srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
         <img class="feature-image img"
@@ -29,4 +31,9 @@
     {{ end }}
   </div>
 </section>
+<style>
+  figure {
+    margin: 0 !important;
+  }
+</style>
 {{ end }}
