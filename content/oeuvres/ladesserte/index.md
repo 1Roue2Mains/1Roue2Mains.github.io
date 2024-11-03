@@ -7,4 +7,4 @@ description: |-
 ---
 
 A l'heure du travail nomade, elle est le compagnon de route idéal. 
-\Un véritable ***bureau vagabond***, sans clou ni vis.
+<br/> Un véritable ***bureau vagabond***, sans clou ni vis.
