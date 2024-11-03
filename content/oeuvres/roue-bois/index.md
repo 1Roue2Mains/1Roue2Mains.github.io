@@ -2,7 +2,7 @@
 title: Les roues
 essence: robinier
 description: |-
-  **Essences : Orme - Frêne - Robinier**
+  **Essences : Orme - Frêne - Robinier** <br/>
   ***Diamètre : 640 mm***
 ---
 
