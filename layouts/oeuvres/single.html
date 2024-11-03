@@ -9,6 +9,9 @@
     {{ if .Content }}<h2>Présentation</h2>{{ end }}
     {{ .Content }}
     {{ $path := printf "/essences/%s/" .Params.essence }}
+    {{ range ($.Site.GetPage "essences").Pages }}
+      <span>link : {{ .RelPermalink }}</span><br/>
+    {{ end }}
     <span>chemin : {{ $path }}</span>
     {{ $key := ((index (where ($.Site.GetPage "essences").Pages "RelPermalink" "in" (slice $path)) 0).Resources) }}
     <span>cle : {{ $key }}</span>
