@@ -3,5 +3,5 @@ title: La boîte
 weight: 1
 description: |-
   **Essences : Noyer - Frêne**
-  ***Dim. 15 x 15 x 28cm***
+    ***Dim. 15 x 15 x 28cm***
 ---
