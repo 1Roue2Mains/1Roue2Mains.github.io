@@ -1,5 +1,5 @@
 ---
-title: le miroir
+title: Le miroir
 essence : mélèze
 
 description: |-
