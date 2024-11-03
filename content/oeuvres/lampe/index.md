@@ -1,5 +1,6 @@
 ---
-title: Lampe
+title: la lampe
 ---
 
-Description de ma lampe
+  **Essences : Mélèze - Frêne - Chêne**
+  ***Dim. 9,5 x 20 x 30 cm***
