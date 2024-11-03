@@ -1,5 +1,5 @@
 ---
 title: La vagabonde
 weight: 3
-essence: 
+essence: robinier
 ---
