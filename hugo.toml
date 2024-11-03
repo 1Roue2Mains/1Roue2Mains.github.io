@@ -3,7 +3,7 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableInlineShortcodes = true
 removePathAccents = true
-title = 'Atelier de pierrot'
+title = 'Atelier de Pierrot'
 theme = 'pego'
 
 [markup.goldmark.renderer]
@@ -19,4 +19,4 @@ unsafe = true
     languageCode = "en"
     languageName = "English"
     weight = 2
-    title = "Atelier de pierrot"
+    title = "Atelier de Pierrot"
