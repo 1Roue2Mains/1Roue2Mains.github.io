@@ -9,7 +9,7 @@ description: >
   <br/> - d'un **atelier à partager** pour développer ma passion pour le *savoir-faire des charrons*.
   <br/> Si vous avez des pistes pour moi, je suis preneur.
   <br/>
-  <br/> Mille mercis ! Et au plaisir de se rencontrer.
+  <br/> Mille mercis ! Et au plaisir de vous rencontrer.
   <br/> 
   <br/> **Pierre**
 
