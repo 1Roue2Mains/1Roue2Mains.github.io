@@ -9,7 +9,9 @@
     {{ if .Content }}<h2>Présentation</h2>{{ end }}
     {{ .Content }}
     {{ $path := printf "/essences/%s/" .Params.essence }}
+    <span>chemin : {{ $path }}</span>
     {{ $key := ((index (where ($.Site.GetPage "essences").Pages "RelPermalink" "in" (slice $path)) 0).Resources) }}
+    <span>cle : {{ $key }}</span>
     {{ $images := cond (not $key) slice $key }}
     {{ with (.Resources.ByType "image") }}
     <h2>Galerie</h2>
