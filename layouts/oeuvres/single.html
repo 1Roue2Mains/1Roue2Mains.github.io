@@ -8,7 +8,7 @@
   <div class="single-container markdown">
     {{ if .Content }}<h2>Présentation</h2>{{ end }}
     {{ .Content }}
-    {{ $path := printf "/essences/%s/" .Params.essence }}
+    {{ $path := printf "/atelier-de-pierrot/essences/%s/" .Params.essence }}
     {{ range ($.Site.GetPage "essences").Pages }}
       <span>link : {{ .RelPermalink }}</span><br/>
     {{ end }}
