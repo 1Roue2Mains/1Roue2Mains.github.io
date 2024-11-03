@@ -8,4 +8,4 @@ description: |-
 ---
 
 Les montants sont en mélèze, la traverse basse en frêne et la traverse haute en chêne.
-<br/> Le mélange d'essences feuillues et résineuses est plutôt chouette.
+<br/> Un mélange d'essences feuillues et résineuses qui fonctionne bien.
