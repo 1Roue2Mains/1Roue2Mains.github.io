@@ -3,7 +3,7 @@ title: Le miroir
 essence: meleze
 
 description: |-
-  **Essences : Mélèze - Frêne - Chêne**
+  **Essences : Mélèze - Frêne - Chêne** <br/>
   ***Dim. 40 x 30cm***
 ---
 
