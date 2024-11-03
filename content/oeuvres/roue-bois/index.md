@@ -1,6 +1,9 @@
 ---
 title: les roues
 essence: robinier
+description: |-
+  **Essences : Orme - Frêne - Robinier**
+  ***Diamètre : 640 mm***
 ---
 
 Ces roues ont été réalisées grâce à l'accompagnement d'Alain Montpied, Artisan charron à St Ours (63).
