@@ -1,6 +1,6 @@
 ---
 title: La lampe
-essence: chene
+essence: meleze
 description: |-
   **Essences : Mélèze - Frêne - Chêne**
   <br/> ***Dim. 9,5 x 20 x 30cm***
