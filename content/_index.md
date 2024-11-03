@@ -12,7 +12,6 @@ description: >
   <br/> Mille mercis ! Et au plaisir de se rencontrer.
   <br/> 
   <br/> **Pierre**
-______
 
 seo_title: Atelier de Pierrot
 
