@@ -1,5 +1,5 @@
 ---
-title: La boîte <p>➡️
+title: La boîte
 weight: 1
 description: |-
   **Essences : Noyer - Frêne** <br/>
