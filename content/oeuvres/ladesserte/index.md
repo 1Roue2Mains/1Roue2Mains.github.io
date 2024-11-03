@@ -5,4 +5,4 @@ essence: robinier
 description: |-
   **Essences : Orme - Frêne - Noyer - Robinier**
   Le bureau vagabond.
-  ---
+---
