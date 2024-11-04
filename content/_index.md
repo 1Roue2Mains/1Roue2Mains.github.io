@@ -13,6 +13,7 @@ description: >
   <br/> 
   <br/> **Pierre**
   <br/> NB : où ça ? un peu partout, là où il y a des cailloux à grimper de préférence :)
+  <br/> Pour me contacter : *pierre.renault73@gmail.com*
   <br/> 
   <br/> 
 
