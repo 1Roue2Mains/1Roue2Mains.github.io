@@ -1,13 +1,15 @@
 {{ define "main" }}
 <div class="container--sm">
-<p>{{ .Description | markdownify }}</p>
+<div class="note">
+  <p>{{ .Description | markdownify }}</p>
+</div>
 {{ partialCached "css.html" "css" "css" }}
 <h2>Mes créations</h2>
 <div class="grid">
   {{/* Shortcodes from page content  */}}
   {{ range (where (where .Site.Pages ".Section" "oeuvres") "Kind" "page").ByWeight }}
   <div class="flip-card-container">
-  <div class="flip-card">
+  <div class="flip-card enlarge-link ">
     <div class="card-front">
       <figure>
         {{ $img_src := .Resources.GetMatch (delimit (first 1 (.Resources.ByType "image")) "") }}

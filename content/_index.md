@@ -1,21 +1,17 @@
 ---
 title: Bois local et créations originales
 description: >
-  **Bonjour**, 
-  <br/> 
-  <br/> Je m’appelle Pierre, j'ai 35 ans et suis menuisier ébéniste depuis peu. 
-  <br/> Je suis à la recherche :
-  <br/> - d'**artisans passionnés** pour continuer d’apprendre à travailler le **bois massif** (escalier, portes, fenêtres, etc.)
-  <br/> - d'un **atelier à partager** pour développer ma passion pour le *savoir-faire des charrons*.
-  <br/> Si vous avez des pistes pour moi, je suis preneur.
-  <br/>
-  <br/> Mille mercis ! Et au plaisir de vous rencontrer.
-  <br/> 
-  <br/> **Pierre**
-  <br/> NB : où ça ? un peu partout, là où il y a des cailloux à grimper de préférence :)
-  <br/> Pour me contacter : *pierre.renault73@gmail.com*
-  <br/> 
-  <br/> 
+  ## Bonjour
+
+   Je m’appelle Pierre, j'ai 35 ans et suis menuisier ébéniste depuis peu.
+   Je suis à la recherche :
+   - d'**artisans passionnés** pour continuer d’apprendre à travailler le **bois massif** (escalier, portes, fenêtres, etc.)
+   - d'un **atelier à partager** pour développer ma passion pour le *savoir-faire des charrons*.
+   Si vous avez des pistes pour moi, je suis preneur.
+
+   Mille mercis ! Et au plaisir de vous rencontrer.
+
+   **Pierre**
 
 seo_title: Atelier de Pierrot
 

@@ -1,4 +1,13 @@
 <style>
+.note {
+  padding: 0.5rem 1.5rem;
+  background: rgba(135, 206, 235, 0.1);
+  border-radius: 10px;
+}
+.note h2 {
+  font-size: 1.5em;
+  color: rgb(6, 102, 252);
+}
 /* .flip-card-container */
 .flip-card-container {
   --hue: 150;
@@ -16,10 +25,14 @@
 
 .flip-card-container a {
   color: #fff;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 3px;
+  transition: text-decoration-style 2s;
 }
 
 .flip-card-container a:hover {
-  text-decoration: underline;
+  text-decoration-style: wavy;
 }
 
 /* .flip-card */
@@ -30,6 +43,10 @@
   position: relative;
   transform-style: preserve-3d;
   transition: .6s .1s;
+}
+
+.flip-card:hover .card-back {
+  box-shadow: inset 0 0 200px 1px rgba(255,255,255,0.1);
 }
 
 /* .card-... */
@@ -65,8 +82,6 @@
   transform: rotateY(0deg);
   z-index: 3;
 }
-
-
 
 @media screen and (min-width:1024px) {
   /* hover and focus-within states */
