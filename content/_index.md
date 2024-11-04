@@ -12,7 +12,9 @@ description: >
   <br/> Mille mercis ! Et au plaisir de vous rencontrer.
   <br/> 
   <br/> **Pierre**
-  <br/> Où ça ? un peu partout, là où il y a des cailloux à grimper de préférence :)
+  <br/> NB : où ça ? un peu partout, là où il y a des cailloux à grimper de préférence :)
+  <br/> 
+  <br/> 
 
 seo_title: Atelier de Pierrot
 
