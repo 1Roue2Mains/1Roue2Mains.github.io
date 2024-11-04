@@ -7,15 +7,17 @@
 <h2>Mes créations</h2>
 <div class="grid">
   {{/* Shortcodes from page content  */}}
+  {{ $counter := 0 }}
   {{ range (where (where .Site.Pages ".Section" "oeuvres") "Kind" "page").ByWeight }}
+  {{ $counter = add $counter 1 }}
   <div class="flip-card-container">
   <div class="flip-card enlarge-link ">
     <div class="card-front">
       <figure>
         {{ $img_src := .Resources.GetMatch (delimit (first 1 (.Resources.ByType "image")) "") }}
         {{ if $img_src }}
-        <link rel="preload" as='"image' srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
-        <img class="feature-image"
+        <link rel="preload" as="image" srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
+        <img class="feature-image"{{ if gt $counter 3 }} loading="lazy"{{ end }}
           srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
           sizes="(max-width: 600px) 480px, 800px"
           src="{{ ($img_src.Resize "500x webp").Permalink }}"

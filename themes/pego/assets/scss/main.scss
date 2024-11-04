@@ -341,3 +341,13 @@ figure img.img {
   height: 1px;
   border: 0;
 }
+
+.note {
+  padding: 0.5rem 1.5rem;
+  background: rgba(135, 206, 235, 0.1);
+  border-radius: 10px;
+}
+.note h2 {
+  font-size: 1.5em;
+  color: rgb(6, 102, 252);
+}
