@@ -7,4 +7,4 @@ description: |-
 ---
 
 Ces roues ont été réalisées grâce à l'accompagnement d'***Alain Montpied***, Artisan charron à **St Ours** (63).
-Les moyeux ont réalisés en orme, les rais en robinier et les jantes en frêne.
+Les moyeux ont été façonnés en orme, les rais en robinier et les jantes en frêne.
