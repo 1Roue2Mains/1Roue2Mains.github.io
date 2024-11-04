@@ -1,7 +1,7 @@
 ---
 title: Bois local et créations originales
 description: >
-  Bonjour, 
+  #Bonjour, 
   <br/> 
   <br/> Je m’appelle Pierre, j'ai 35 ans et suis menuisier ébéniste depuis peu. 
   <br/> Je suis à la recherche :
