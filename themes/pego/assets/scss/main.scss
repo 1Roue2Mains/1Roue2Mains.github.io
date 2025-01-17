@@ -46,6 +46,9 @@
   'pages/post-list',
   'pages/project-list';
 
+:root {
+  --offset: 15rem;
+}
 
 body {
   background: var(--color-bg)
@@ -57,6 +60,10 @@ h2 {
 
 hr {
   margin: 2rem 0 2rem;
+}
+
+header {
+  height: var(--offset);
 }
 
 header a {
@@ -346,8 +353,57 @@ figure img.img {
   padding: 0.5rem 1.5rem;
   background: rgba(135, 206, 235, 0.1);
   border-radius: 10px;
+  text-align: left;
 }
 .note h2 {
   font-size: 1.5em;
   color: rgb(6, 102, 252);
+}
+
+:has(.background-image) .logo {
+  color: #fff;
+}
+
+.background-image {
+  margin-top: calc(var(--offset) * -1);
+  padding: var(--offset) 0 3rem;
+  width: 100vw;
+  min-height: 103vh;
+  background-size: cover;
+  text-align: center;
+  background: #111;
+}
+
+.background-image .container--sm {
+  position: relative;
+}
+
+@media (orientation: portrait) {
+  .background-image {
+    min-height: 60vh;
+  }
+}
+
+.background-image .note {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.background-image .note h2 {
+  color: #fff;
+}
+
+.avatar {
+  margin-top: -50px;
+  margin-bottom: 50px;
+  border-radius: 50%;
+}
+
+@media screen and (min-width: 860px) {
+  .avatar {
+    position: absolute;
+    top: -75px;
+    right:  -5px;
+    border-radius: 50%;
+  }
 }

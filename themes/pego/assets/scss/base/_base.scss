@@ -32,12 +32,12 @@ body {
   flex-direction: column;
 }
 
-main {   
-  flex: 1 0 auto; 
+main {
+  flex: 1 0 auto;
 }
 
 footer {
-  flex-shrink: 0;    
+  flex-shrink: 0;
 }
 
 a {
@@ -61,6 +61,32 @@ a:not([class]) {
 h1,h2 {
   font: normal 125% / 1.4 $title-font-stack;
   font-weight: 800;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+:not([class]) {
+  h1#{&}, h2#{&}, h3#{&}, h4#{&}, h5#{&}, h6#{&} {
+    margin-block: 0.75em;
+    line-height: 1.25;
+    text-wrap: balance;
+    letter-spacing: -0.05ch;
+  }
+
+  p#{&}, ol#{&}, ul#{&} {
+    margin-block: 1em;
+  }
+
+  ol#{&}, ul#{&} {
+    padding-inline-start: 1.5em;
+    list-style: revert;
+  }
+
+  li#{&} {
+    margin-block: 0.5em;
+  }
 }
 
 h1 {
@@ -91,7 +117,7 @@ table {
   border-collapse: collapse;
   overflow-x: auto;
   width: 100%;
-  margin-inline: auto; 
+  margin-inline: auto;
   table-layout: fixed;
   overflow-wrap: break-word;
 }
@@ -194,7 +220,7 @@ form {
   margin: auto;
   padding: 0rem;
   max-width: 40rem;
- 
+
   p, fieldset {
     margin-bottom: 1em;
   }
@@ -217,7 +243,7 @@ form {
     background-color: var(--color-contrast-lower);
     color: var(--color-contrast-high);
   }
-  
+
   button {
     cursor: pointer;
   }
