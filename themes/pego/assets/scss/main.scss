@@ -370,18 +370,13 @@ figure img.img {
   width: 100vw;
   min-height: 330px;
   background-size: cover;
+  background-position: center;
   text-align: center;
   background-color: #111;
 }
 
 .background-image .container--sm {
   position: relative;
-}
-
-@media (orientation: portrait) {
-  .background-image {
-    min-height: 60vh;
-  }
 }
 
 .background-image .note {
