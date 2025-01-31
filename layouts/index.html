@@ -1,17 +1,18 @@
 {{ define "main" }}
 {{ $filter := images.Contrast -30 }}
-{{ $avatar := (((resources.Get "/illustration/avatar.jpg")).Resize "150x webp").Permalink  }}
+{{ $avatar := (((resources.Get "/illustration/avatar.jpg")).Resize "250x webp").Permalink  }}
 {{ $background := (((resources.Get "/illustration/background-home.jpg").Filter $filter).Resize "1900x webp").Permalink  }}
 
 <div class="background-image" style="background-image: url({{ $background }})">
   <div div class="container--sm">
-    <img src="{{ $avatar }}" class="avatar" alt="Avatar de Pierre Renault">
-    <div class="note">
-      <p>{{ .Description | markdownify }}</p>
-    </div>
+    <img src="{{ $avatar }}" class="avatar" alt="Avatar de Pierre Renault" width="150px">
   </div>
 </div>
 <div class="container--sm">
+<br><br>
+<div class="note">
+  <p>{{ .Description | markdownify }}</p>
+</div>
 {{ partialCached "css.html" "css" "css" }}
 <h2>Mes créations</h2>
 <div class="grid">

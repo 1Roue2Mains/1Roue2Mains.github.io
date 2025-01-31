@@ -368,10 +368,10 @@ figure img.img {
   margin-top: calc(var(--offset) * -1);
   padding: var(--offset) 0 3rem;
   width: 100vw;
-  min-height: 103vh;
+  min-height: 330px;
   background-size: cover;
   text-align: center;
-  background: #111;
+  background-color: #111;
 }
 
 .background-image .container--sm {
@@ -394,16 +394,17 @@ figure img.img {
 }
 
 .avatar {
-  margin-top: -50px;
-  margin-bottom: 50px;
+  position: absolute;
+  right: 5vw;
+  bottom: -200px;
+  margin: 0;
   border-radius: 50%;
 }
 
 @media screen and (min-width: 860px) {
   .avatar {
     position: absolute;
-    top: -75px;
+    bottom: -160px;
     right:  -5px;
-    border-radius: 50%;
   }
 }
