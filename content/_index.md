@@ -1,7 +1,7 @@
 ---
 title: Bois local et créations originales
 description: >
-  ## Présentation
+  ## Menuisier ébéniste créateur
   
     Ingénieur paysagiste de formation, passionné par le travail de la matière, tout autant que par les paysages et les gens qui les font vivre, je décide en 2023 d’engager une reconversion professionnelle pour devenir menuisier-ébéniste créateur et tenter d’écrire de nouveaux récits pour accompagner les transitions de nos mode de vie.
 
