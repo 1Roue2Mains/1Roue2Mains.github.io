@@ -351,13 +351,14 @@ figure img.img {
 
 .note {
   padding: 0.5rem 1.5rem;
-  background: rgba(135, 206, 235, 0.1);
+  background: rgba(63, 75, 41, 0.01);
+  border: 1px solid rgba(63, 75, 41, 0.05);
   border-radius: 10px;
   text-align: left;
 }
 .note h2 {
   font-size: 1.5em;
-  color: rgb(6, 102, 252);
+  color: #3F4B29;
 }
 
 :has(.background-image) .logo {
@@ -370,7 +371,7 @@ figure img.img {
   width: 100vw;
   min-height: 330px;
   background-size: cover;
-  background-position: center;
+  background-position: center bottom;
   text-align: center;
   background-color: #111;
 }
@@ -394,6 +395,7 @@ figure img.img {
   bottom: -200px;
   margin: 0;
   border-radius: 50%;
+  border: 5px solid #F0F2DB;
 }
 
 @media screen and (min-width: 860px) {

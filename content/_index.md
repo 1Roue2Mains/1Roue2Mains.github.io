@@ -17,7 +17,7 @@ description: >
 
    **Pierre**
 
-seo_title: Atelier de Pierrot
+seo_title: "1roue2mains"
 
 outputs:
   - html

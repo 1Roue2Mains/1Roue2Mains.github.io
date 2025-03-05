@@ -12,7 +12,7 @@
       {{ .Content }}
     </div>
     {{ end }}
-    {{ $path := printf "/atelier-de-pierrot/essences/%s/" .Params.essence }}
+    {{ $path := printf "/essences/%s/" .Params.essence }}
     {{ $key := ((index (where ($.Site.GetPage "essences").Pages "RelPermalink" "in" (slice $path)) 0).Resources) }}
     {{ $images := cond (not $key) slice $key }}
     {{ with (.Resources.ByType "image") }}
