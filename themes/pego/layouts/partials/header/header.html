@@ -1,8 +1,10 @@
 <header class="container">
   <nav class="main-nav" id="js-navbar">
     <span class="flex align-items enlarge-link">
-      <span class="logo-image">{{ readFile "static/images/logo-pierrot.svg" | safeHTML }}</span>
-      <a class="logo" href="{{ .Site.BaseURL }}" hidden>Aller à l’acceuil de {{ .Site.Title }}</a>
+      <a href="{{ .Site.BaseURL }}">
+        <span class="logo sr-only">Aller à l’accueil de {{ .Site.Title }}</span>
+        <span class="logo-image" aria-hidden="true">{{ readFile "static/images/logo-pierrot.svg" | safeHTML }}</span>
+      </a>
     </span>
     <ul class="menu" id="js-menu">
       {{ $currentPage := . }}
