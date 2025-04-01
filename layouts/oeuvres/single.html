@@ -17,7 +17,7 @@
     {{ $images := cond (not $key) slice $key }}
     {{ with (.Resources.ByType "image") }}
     <h2>Galerie</h2>
-    <div class="grid">
+    <div class="grid content-visibility-image">
       {{ $counter := 0 }}
       {{ range (shuffle (cond (gt (len $images) 0) (union . $images) .)) }}
       {{ $counter = add $counter 1 }}

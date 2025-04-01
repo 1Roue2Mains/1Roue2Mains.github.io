@@ -1,8 +1,8 @@
 {{ define "main" }}
-{{ $filter := images.Contrast -10 }}
-{{ $avatar := (((resources.Get "/illustration/avatar.jpg")).Resize "350x webp").Permalink  }}
-{{ $background := (((resources.Get "/illustration/background-home.jpg").Filter $filter).Resize "1900x webp").Permalink  }}
-
+{{- $filter     := images.Contrast -10 }}
+{{- $avatar     := (((resources.Get "/illustration/avatar.jpg")).Resize "350x webp").Permalink  }}
+{{- $background := (((resources.Get "/illustration/background-home.jpg").Filter $filter).Resize "1900x webp").Permalink  }}
+<link rel="preload "as="image" href="{{ $background }}">
 <div class="background-image" style="background-image: url({{ $background }})">
   <div div class="container--sm">
     <img src="{{ $avatar }}" class="avatar" alt="Avatar de Pierre Renault" width="150px">
@@ -15,7 +15,7 @@
 </div>
 {{ partialCached "css.html" "css" "css" }}
 <h2>Mes créations</h2>
-<div class="grid">
+<div class="grid content-visibility">
   {{/* Shortcodes from page content  */}}
   {{ $counter := 0 }}
   {{ range (where (where .Site.Pages ".Section" "oeuvres") "Kind" "page").ByWeight }}
@@ -24,15 +24,16 @@
   <div class="flip-card enlarge-link ">
     <div class="card-front">
       <figure>
-        {{ $img_src := .Resources.GetMatch (delimit (first 1 (.Resources.ByType "image")) "") }}
-        {{ if $img_src }}
+        {{- $img_src := .Resources.GetMatch (delimit (first 1 (.Resources.ByType "image")) "") }}
+        {{- if $img_src }}
         <link rel="preload" as="image" srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
         <img class="feature-image"{{ if gt $counter 3 }} loading="lazy"{{ end }}
           srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
           sizes="(max-width: 600px) 480px, 800px"
           src="{{ ($img_src.Resize "500x webp").Permalink }}"
-          alt="">
-        {{ end }}
+          alt=""
+          loading="lazy">
+        {{ end -}}
       </figure>
     </div>
     <div class="card-back">
@@ -41,7 +42,7 @@
     </div>
   </div>
   </div>
-  {{ end }}
+  {{ end -}}
   </div>
   {{ partialCached "content.html" .Content .Content }}
 </div>

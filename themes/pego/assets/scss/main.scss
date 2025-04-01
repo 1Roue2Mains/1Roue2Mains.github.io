@@ -47,7 +47,7 @@
   'pages/project-list';
 
 :root {
-  --offset: 15rem;
+  --offset: 23rem;
 }
 
 body {
@@ -73,6 +73,15 @@ header a {
 .logo {
   font-weight: 700;
   text-shadow: 2px 1px 4px rgba(0,0,0,0.1);
+}
+
+.logo-image svg {
+  min-width: 400px;
+  max-width: 50%;
+}
+
+.home .logo-image svg {
+  fill: #fff;
 }
 
 .hero-title {
@@ -101,6 +110,15 @@ hr:before {
   left: 50%;
   margin: 0 0 0 -3px;
   transform: rotate(45deg);
+}
+
+.content-visibility > *:nth-child(n + 3) {
+  content-visibility: auto;
+}
+
+.content-visibility-image {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 600px;
 }
 
 .b-all {
@@ -374,6 +392,8 @@ figure img.img {
   background-position: center bottom;
   text-align: center;
   background-color: #111;
+  -webkit-transition: background-image 20s ease-in-out;
+  transition: background-image 20s ease-in-out;
 }
 
 .background-image .container--sm {

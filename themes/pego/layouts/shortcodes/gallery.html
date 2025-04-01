@@ -12,7 +12,8 @@
         srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
         sizes="(max-width: 600px) 480px, 800px"
         src="{{ ($img_src.Resize "500x webp").Permalink }}"
-        alt="">
+        alt=""
+        loading="lazy">
       {{ end }}
     </figure>
   </div>

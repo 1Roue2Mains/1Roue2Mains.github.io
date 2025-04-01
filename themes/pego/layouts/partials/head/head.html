@@ -1,6 +1,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preload" href="{{ $.Site.BaseURL | default "/" }}css/fonts.css" as="style">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL | default "/" }}css/fonts.css"/>
   {{ partial "head/seo/seo.html" . }}
   {{ partial "head/resource-hints.html" . }}
   {{ partial "head/styles.html" . }}
