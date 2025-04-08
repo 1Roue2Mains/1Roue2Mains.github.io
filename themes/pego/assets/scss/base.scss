@@ -47,6 +47,13 @@
     text-shadow: 2px 1px 4px rgba(0,0,0,0.1);
   }
 
+  .home .logo-image {
+    display: block;
+    background: rgba(0,0,0,0.2);
+    margin-top: 10px;
+    padding: 0 4rem 0 0;
+  }
+
   .logo-image svg {
     display: block;
     min-width: 200px;
