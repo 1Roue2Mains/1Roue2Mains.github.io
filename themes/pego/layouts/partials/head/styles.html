@@ -1,5 +1,7 @@
 {{- $sass := resources.Get "scss/main.scss" }}
+{{- $base := resources.Get "scss/base.scss" }}
 {{- $options := (dict "enableSourceMap" (not hugo.IsProduction)) }}
+{{- $base  := $base | css.Sass $options }}
 {{- $style := $sass | css.Sass $options }}
 
 {{- $custom := "" }}
@@ -8,6 +10,7 @@
   {{ $custom = resources.Get . }}
   {{/*  Only concatenate in production to allow source maps  */}}
   {{- if hugo.IsProduction }}
+    {{ $base   := slice $base | resources.Concat "base.css" }}
     {{ $bundle := slice $style $custom | resources.Concat "main.css" }}
     {{ $style = $bundle }}
   {{ else }}
@@ -27,6 +30,9 @@
   {{/*  Only minify in production to allow source maps  */}}
   {{ $final = $final | minify }}
 {{ end }}
+<style>
+  {{ $base.Content | safeCSS }}
+</style>
 <link rel="stylesheet" href="{{ $final.Permalink }}" />
 {{/*  Custom goes last to preserve cascade in development  */}}
 {{- if $custom_no_bundle }}

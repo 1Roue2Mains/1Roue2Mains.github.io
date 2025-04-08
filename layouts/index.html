@@ -36,8 +36,8 @@
         {{ end -}}
       </figure>
     </div>
-    <div class="card-back">
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <div class="card-back enlarge-link">
+      <h3><a href="{{ .Permalink }}" class="zig-zag">{{ .Title }}</a></h3>
       <p>{{ .Description | markdownify }}</p>
     </div>
   </div>
