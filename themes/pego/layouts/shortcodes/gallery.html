@@ -7,7 +7,6 @@
     <figure>
       {{ $img_src := resources.GetMatch (printf "gallery/main/%s" .Name) }}
       {{ if $img_src }}
-      <link rel="preload" as='"image' srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w" href="{{ ($img_src.Resize "500x webp").Permalink }}">
       <img class="feature-image img"
         srcset="{{ ($img_src.Resize "500x webp").Permalink }} 480w, {{ ($img_src.Resize "800x webp").Permalink }} 800w"
         sizes="(max-width: 600px) 480px, 800px"

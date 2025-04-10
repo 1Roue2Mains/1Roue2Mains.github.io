@@ -3,7 +3,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1400.6 750.6" style="enable-background:new 0 0 1400.6 750.6;" xml:space="preserve">
 <style type="text/css">
-  .stroke{stroke: #555;stroke-width:1px;stroke-linecap: butt; stroke-linejoin: miter;}
+  .stroke{stroke:#888;stroke-width:5px;stroke-linecap: butt; stroke-linejoin: miter;paint-order:stroke;}
 	.st0{fill:none;}
 	.st1{font-family:'vision','Century','Arial','Verdana','Verdana';}
 	.st2{font-size:121.8898px;}
