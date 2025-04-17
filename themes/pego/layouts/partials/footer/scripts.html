@@ -26,7 +26,7 @@
 {{ else }}
   {{ $final = $script }}
 {{ end }}
-<script src="{{ $final.Permalink }}"></script>
+<script src="{{ $final.Permalink }}" defer></script>
 
 <!-- Add Google Analytics v4 tag if not using GTM -->
 {{ if and (not hugo.IsServer) (not .Site.Params.gtm_id) }}
