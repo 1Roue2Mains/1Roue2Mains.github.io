@@ -4,10 +4,12 @@
 {{- $background_s := (((resources.Get "/illustration/background-home.jpg").Filter $filter).Resize "800x webp").Permalink  }}
 {{- $background_b := (((resources.Get "/illustration/background-home.jpg").Filter $filter).Resize "1600x webp").Permalink  }}
 <link rel="preload "as="image" imagesrcset="{{ $background_s }} 1x, {{ $background_b }} 2x">
+<style>
 .background-image {
   background-image: image-set("{{ $background_s }}" 1x, "{{ $background_b }}" 2x);
   background-image: -webkit-image-set("{{ $background_s }}" 1x, "{{ $background_b }}" 2x);
 }
+</style>
 <div class="background-image">
   <div div class="container--sm">
     <img src="{{ $avatar }}" class="avatar" alt="Avatar de Pierre Renault" width="150px">
