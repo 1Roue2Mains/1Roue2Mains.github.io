@@ -12,8 +12,12 @@
       {{ .Content }}
     </div>
     {{ end }}
-    {{ $path := printf "/essences/%s/" .Params.essence }}
-    {{ $key := ((index (where ($.Site.GetPage "essences").Pages "RelPermalink" "in" (slice $path)) 0).Resources) }}
+    {{- $essence := (lower .Params.essence) -}}
+    {{- $key := slice -}}
+    {{- range (split (.Params.essence) ",")}}
+      {{ $path := printf "/essences/%s/" (trim (urlize .) "") }}
+      {{ $key = cond (fileExists $path) ($key | append ((index (where ($.Site.GetPage "essences").Pages "RelPermalink" "in" (slice $path)) 0).Resources)) $key }}
+    {{ end -}}
     {{ $images := cond (not $key) slice $key }}
     {{ with (.Resources.ByType "image") }}
     <h2>Galerie</h2>
