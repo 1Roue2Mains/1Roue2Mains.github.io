@@ -166,20 +166,15 @@ td {
 }
 
 blockquote {
-  background: rgb(234, 245, 249);
+  background: transparent;
   padding: 0.5em 1.5rem;
   margin: 1em auto 3em;
   max-width: 80vw;
-  border: solid 2px rebeccapurple;
-  box-shadow: 13px 13px 0 0 white,
-              15px 15px 0 0 rebeccapurple,
-              15px 11px 0 0 rebeccapurple,
-              11px 15px 0 0 rebeccapurple;
+  border: solid 2px #222;
 }
 
 blockquote p {
   font-size: 110%;
-  font-weight: 600;
   line-height: 1.4;
 }
 
