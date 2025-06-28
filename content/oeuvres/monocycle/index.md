@@ -8,10 +8,10 @@ description: |-
 
 Tout est parti d'une promesse. Celle de fabriquer un monocycle en bois à mes neveux.
 
-La promesse s'est transformée en un petit défi et une succession de découvertes et de rencontres passionnantes.
+Finalement un petit défi et une succession de découvertes et de rencontres extraordinaires.
 Et depuis juin 2025, il roule. Sans pneu. Sans chichi.
 
-Le Mono d'Antan.
+**Le Mono d'Antan**.
 
 
 > Vous savez questionner le monocycle je pense que c'est avant tout redéfinir la notion de progrès.
