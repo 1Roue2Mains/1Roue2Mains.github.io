@@ -14,6 +14,6 @@ Et depuis juin 2025, il roule. Sans pneu. Sans chichi.
 **Le Mono d'Antan**.
 
 
-> Vous savez questionner le monocycle je pense que c'est avant tout redéfinir la notion de progrès.
+> Vous savez, questionner le monocycle je pense que c'est avant tout redéfinir la notion de progrès.
 > Par progrès, j'entends ce mouvement que nous cherchons en vain depuis la préhistoire.
 > **Thomas Liverzay.**
