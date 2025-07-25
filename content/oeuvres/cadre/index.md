@@ -6,7 +6,7 @@ description: |-
   **Essences : Châtaignier - noyer - Frêne - Chêne**
   ---
 
-Les cadres FOTO sont sur-mesure et entièrement façonnés à la main, du débit du bois
+Les cadres **FOTO** sont sur-mesure et entièrement façonnés à la main, du débit du bois
 à la découpe du verre. Un chanfrein intérieur au rabot à paume pour une finition glacée.
 L'empreinte pour le clou. Le verre peut-être remplacé aisément en cas de casse.
 
