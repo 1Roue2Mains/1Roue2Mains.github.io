@@ -6,3 +6,5 @@ description: |-
   **Essences : Noyer - Frêne** <br/>
   ***Dim. 15 x 15 x 28cm***
 ---
+
+*Prix : 380 euros TTC.*
