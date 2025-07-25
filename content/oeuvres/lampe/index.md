@@ -1,9 +1,13 @@
 ---
-title: La lampe
-essence: meleze
+title: LUPIA - la lampe.
+weight: 3
+essence: meleze, noyer, chêne, orme, frene
 description: |-
-  **Essences : Mélèze - Frêne - Chêne**
-  <br/> ***Dim. 9,5 x 20 x 30cm***
+  **Essences : Frêne - Noyer - Chêne - Mélèze - Orme**
+    <br/> ***Dim. 9,5 x 20 x 30cm***
 ---
 
-Conçue en collaboration avec **Charlotte Pirlot**, designeuse ébéniste belge en 2023, la première série créée en 2024 a trouvé son public et suscite beaucoup d’enthousiasme.
+Collection 2025 • Les Voisins d’établis avec Charlotte, Ebéniste designer.
+
+*Prix : 255 euros TTC.*
+
