@@ -7,7 +7,7 @@ description: |-
   ***Dim. 15 x 15 x 28cm***
 ---
 
-La boîte CAJA s'adapte à de nombreux usages.
+La boîte **CAJA** s'adapte à de nombreux usages.
 Une boîte à bijoux. Une boîte à chocolats. Bref. Une boîte.
 
 *Prix : 380 euros TTC.*
