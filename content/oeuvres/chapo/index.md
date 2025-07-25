@@ -6,7 +6,7 @@ description: |-
   **Essences : Frêne - Sapin**
 ---
 
-Le porte-chapeau CHÂPÖ contient deux places (superposables).
+Ce support à chapeaux d'intérieur est le premier de la collection **CHÂPÖ** et contient deux places (superposables).
 
 *Prix : 70 euros TTC.*
 *Pour une demande particulière, me contacter.*
