@@ -1,12 +1,14 @@
 ---
-title: Le cadre
+title: FOTO.
 weight: 10
-essence: chataignier
+essence: chataignier, frene, noyer
 description: |-
-  **Essences : Châtaignier - Hêtre - Frêne - Chêne**
-  ***Dim. 25 x 28cm***
----
+  **Essences : Châtaignier - noyer - Frêne - Chêne**
+  ---
 
-C'est l'histoire d'un cadre. Simple. Basique. 
-Avec un **assemblage à coupe d'onglet par enfourchement** - qu'on ne voit pas ici, d'où le schéma !
-Le premier d'une petite réalisation en série.
+Les cadres FOTO sont sur-mesure et entièrement façonnés à la main, du débit du bois
+à la découpe du verre. Un chanfrein intérieur au rabot à paume pour une finition glacée.
+L'empreinte pour le clou. Le verre peut-être remplacé aisément en cas de casse.
+
+*Prix : à partir de 80 euros TTC.*
+*Dimensions sur-mesure, me contacter.*
