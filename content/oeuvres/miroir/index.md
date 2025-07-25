@@ -1,4 +1,4 @@
-<img width="1323" height="609" alt="image" src="https://github.com/user-attachments/assets/255e126d-537c-4e51-8beb-c1107a1e131b" />---
+---
 title: Les miroirs
 essence: meleze, noyer, frene
 
