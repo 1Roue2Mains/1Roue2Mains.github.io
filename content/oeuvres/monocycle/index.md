@@ -1,4 +1,4 @@
-<img width="1323" height="609" alt="image" src="https://github.com/user-attachments/assets/a1978164-41aa-4988-8288-6e94046ff915" />---
+---
 title: Le Mono d'Antan
 weight: 1
 essence: robinier,frene, noyer
