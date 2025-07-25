@@ -1,6 +1,6 @@
 
 ---
-title: Les planches Nomades
+title: Les planches - Nomades
 essence: noyer, orme, frêne
 description: |-
   **Essences : Orme - Frêne - Noyer** <br/>
