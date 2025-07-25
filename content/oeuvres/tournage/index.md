@@ -1,12 +1,11 @@
 ---
-title: Tournerie - les bols
+title: LA TOURNERIE.
 weight: 1
 essence: frene, érable
 description: |-
   **Essences : Frêne - Erable**
 ---
 
-Ces bols ont été tournées à la gouge en bois de travers, 
-au cours de divers stage à l'Ecole Escoulen d'Aiguines dans les Gorges du Verdon.
+Les bols de la collection LA TOURNERIE ont été façonnés au tour à bois à la main en bois de travers.
 
 Finition : huile alimentaire. Prix : sur demande, à partir de 40 euros TTC.
