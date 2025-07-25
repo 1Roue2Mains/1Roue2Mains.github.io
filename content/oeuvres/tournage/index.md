@@ -1,11 +1,12 @@
-
 ---
 title: Tournerie - les bols
-essence: érable, frêne
+weight: 1
+essence: frene, érable
 description: |-
-  **Essences : Erable - frêne** <br/>
+  **Essences : Frêne - Erable**
 ---
 
-Ces planches bols ont été tournées à la gouge en bois de travers.
-Finition : huile alimentaire. Prix : sur demande, à partir de 40 euros TTC.
+Ces bols ont été tournées à la gouge en bois de travers, 
+au cours de divers stage à l'Ecole Escoulen d'Aiguines dans les Gorges du Verdon.
 
+Finition : huile alimentaire. Prix : sur demande, à partir de 40 euros TTC.
