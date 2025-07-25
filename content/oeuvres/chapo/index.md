@@ -1,9 +1,12 @@
 ---
-title: Châpö
+title: CHÂPÖ
 weight: 5
 essence: frêne, sapin
 description: |-
   **Essences : Frêne - Sapin**
 ---
 
-Un porte-chapeaux. 2 places.
+Le porte-chapeau CHÂPÖ contient deux places (superposables).
+
+*Prix : 70 euros TTC.*
+*Pour une demande particulière, me contacter.*
