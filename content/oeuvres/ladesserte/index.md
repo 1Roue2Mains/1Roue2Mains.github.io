@@ -8,3 +8,5 @@ description: |-
 
 A l’heure du travail nomade, elle est le compagnon de route idéal.
 <br/> Un véritable ***bureau vagabond***, sans clou ni vis. Une ***desserte*** aussi, pour les hôtels et restaurants en quête de mobiliers authentiques.
+
+*Prix : à partir de 3 550 euros TTC*.
