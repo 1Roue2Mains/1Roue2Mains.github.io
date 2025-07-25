@@ -1,5 +1,5 @@
 ---
-title: Mijo - les miroirs
+title: MIJO.
 essence: meleze, noyer, frene
 
 description: |-
