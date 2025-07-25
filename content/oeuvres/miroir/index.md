@@ -1,11 +1,16 @@
----
-title: Le miroir
-essence: meleze
+<img width="1323" height="609" alt="image" src="https://github.com/user-attachments/assets/255e126d-537c-4e51-8beb-c1107a1e131b" />---
+title: Les miroirs
+essence: meleze, noyer, frene
 
 description: |-
-  **Essences : Mélèze - Frêne - Chêne** <br/>
+  **Essences : Mélèze - Frêne - Noyer** <br/>
   ***Dim. 40 x 30cm***
 ---
 
-Les montants sont en ***mélèze***, la traverse basse en ***frêne*** et la traverse haute en ***chêne***.
-<br/> Un mélange d'essences ***feuillues*** et ***résineuses*** qui fonctionne bien.
+Du débit du bois à la découpe du miroir, un travail artisanal et sur-mesure.
+Rectangulaires ou arrondis.
+Un chanfrein intérieur pour une finition glacée (la meilleure).
+Des miroirs remplaçables en cas de casse.
+Avec l'empreinte d'accroche au clou.
+
+*Prix : à partir de 110 euros TTC, sur-demande.*
