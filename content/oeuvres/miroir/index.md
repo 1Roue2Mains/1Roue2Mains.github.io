@@ -4,7 +4,7 @@ essence: meleze, noyer, frene
 
 description: |-
   **Essences : Mélèze - Frêne - Noyer** <br/>
-  ***Dim. 40 x 30cm***
+  ***Dim. sur-mesure**
 ---
 
 **Collection Art de la Table / 2025 • Les Voisins d’établis** avec Charlotte, Ebéniste designer.
