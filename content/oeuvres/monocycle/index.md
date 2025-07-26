@@ -1,5 +1,5 @@
 ---
-title: MONO D'ANTAN.
+title: LE MONO D'ANTAN.
 weight: 1
 essence: robinier,frene, noyer
 description: |-
