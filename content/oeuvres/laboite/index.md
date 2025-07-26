@@ -1,6 +1,6 @@
 ---
-title: CAJA.
-weight: 1
+title: CAJA
+weight: 4
 essence: noyer,frêne
 description: |-
   **Essences : Noyer - Frêne** <br/>
