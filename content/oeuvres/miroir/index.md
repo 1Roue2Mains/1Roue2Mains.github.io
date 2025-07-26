@@ -1,5 +1,5 @@
 ---
-title: MIJO.
+title: MIJO
 essence: meleze, noyer, frene
 
 description: |-
