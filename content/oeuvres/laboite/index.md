@@ -8,7 +8,8 @@ description: |-
 ---
 
 La boîte **CAJA** s'adapte à de nombreux usages.
-Une boîte à bijoux. Une boîte à chocolats. Bref. Une boîte.
+<br>Une boîte à bijoux. Une boîte à chocolats. 
+<br>Bref. Une boîte.
 
 *Prix : 380 euros TTC.*
 *Dimensions sur-mesure à la demande.*
