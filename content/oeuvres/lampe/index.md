@@ -1,5 +1,5 @@
 ---
-title: LUPIA.
+title: LUPIA
 weight: 3
 essence: meleze, noyer, chêne, orme, frene
 description: |-
