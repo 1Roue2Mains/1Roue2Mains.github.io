@@ -1,6 +1,6 @@
 ---
-title: LA ROUE.
-essence: robinier
+title: LA ROUE
+essence: robinier, frene
 description: |-
   **Essences : Orme - Frêne - Robinier** <br/>
   ***Diamètre : 640 mm***
