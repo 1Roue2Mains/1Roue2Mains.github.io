@@ -1,5 +1,5 @@
 ---
-title: AQUI.
+title: AQUI
 weight: 3
 essence: chêne, noyer
 description: |-
