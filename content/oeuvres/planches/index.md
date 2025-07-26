@@ -1,7 +1,7 @@
 
 ---
-title: NOMADE.
-weight: 2
+title: NOMADE
+weight: 5
 essence: noyer, orme, frene
 description: |-
   **Essences : Orme - Frêne - Noyer**
