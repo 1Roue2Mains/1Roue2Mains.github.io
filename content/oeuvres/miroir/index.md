@@ -1,5 +1,6 @@
 ---
 title: MIJO
+weight: 5
 essence: meleze, noyer, frene
 
 description: |-
