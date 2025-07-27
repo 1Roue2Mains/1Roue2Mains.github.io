@@ -13,4 +13,4 @@ L'art d'une belle table.
 
 Finition : huile alimentaire. 
 
-*Prix : 240 euros TTC.*
+*Prix : 240 euros TTC. - Dessous de verre : à l'unité, 12 euros TTC.*
