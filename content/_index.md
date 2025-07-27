@@ -9,7 +9,8 @@ description: >
     
     À 34 ans, je crée ma première œuvre - **La Vagabonde** - entièrement en bois  - clin d’œil au métier de charron. 
     Sa réception prometteuse m’invite à poursuivre ma recherche artistique et je lance le projet *1Roue2Mains* à l’automne 2024. 
-   <br> En février 2025, **le Mono d’Antan** voit le jour.<br>
+   En février 2025, **le Mono d’Antan** voit le jour.
+  
     Mon objectif ? Réinterroger la roue au sein de créations de meubles contemporains dans des contextes variés pour toucher, 
     interroger le public sur nos racines, notre rapport au temps, au mouvement, à nos modes de vie et à nos territoires.
 
