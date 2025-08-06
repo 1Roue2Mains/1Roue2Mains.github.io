@@ -9,7 +9,7 @@ description: |-
 
 **Collection Art de la Table / 2025 • Les Voisins d’établis** avec Charlotte, Ebéniste designer.
 
-<br>Les lampes **LUPIA** sont livrées avec l'éqtiquettage CE ; elles sont conçues et réalisées conformément à la réglementation européenne.
+<br>Les lampes **LUPIA** sont livrées avec l'étiquetage CE ; elles sont conçues et réalisées conformément à la réglementation européenne.
 
 *Prix : 255 euros TTC.*
 
