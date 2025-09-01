@@ -5,10 +5,10 @@ essence: meleze, noyer, frene
 
 description: |-
   **Essences : Mélèze - Frêne - Noyer** <br/>
-  ***Dim. sur-mesure**
+  **Dim. sur-mesure**
 ---
 
-**Collection Art de la Table / 2025 • Les Voisins d’établis** avec Charlotte, Ebéniste designer.
+**Collection Art de la Table / 2025 • Les Voisins d’établis [https://1roue2mains.github.io/oeuvres/voisins/] ** avec Charlotte, Ebéniste designer.
 
 Du débit du bois à la découpe du miroir, les miroirs **MIJO** sont le fruit d'un travail artisanal et sur-mesure.
 Un chanfrein intérieur au rabot à paume pour une finition glacée.
