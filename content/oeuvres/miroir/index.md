@@ -5,7 +5,7 @@ essence: meleze, noyer, frene
 
 description: |-
   **Essences : Mélèze - Frêne - Noyer** <br/>
-  **Dim. sur-mesure**
+  ***Dim. sur-mesure***
 ---
 
 **Collection Art de la Table / 2025 • Les Voisins d’établis [https://1roue2mains.github.io/oeuvres/voisins/] ** avec Charlotte, Ebéniste designer.
