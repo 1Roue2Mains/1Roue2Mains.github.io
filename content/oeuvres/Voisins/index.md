@@ -6,8 +6,8 @@ description: |-
   **bois massif • créations • savoir-faire **
 ---
 
-**Charlotte** est *designeuse et ébéniste belge*. 
-Après des études de design industriel à Lièges puis de mobilier à Florence, 
+**Charlotte** est *designeur et ébéniste belge*. 
+Après des études de design industriel à Liège puis de mobilier à Florence, 
 c’est en France qu’elle se forme à l’ébénisterie dans les Alpes au cœur de la Vallée de L’Ubaye. 
 
 **Pierre** est *paysagiste, ingénieur et ébéniste français*. 
