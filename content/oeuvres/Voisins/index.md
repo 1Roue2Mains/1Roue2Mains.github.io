@@ -2,7 +2,7 @@
 title: LES VOISINS D'ETABLIS
 weight: 5
 description: |-
-  **bois massif • créations • savoir-faire **
+  **bois massif • créations • savoir-faire**
 ---
 
 **Charlotte** est *designeur et ébéniste belge*.
