@@ -5,9 +5,6 @@ description: |-
   **design • ingénierie • ébénisterie**
 ---
 
-**Charlotte** est *designeur et ébéniste belge*.
-Après des études de design industriel à Liège puis de mobilier à Florence,
-c’est en France qu’elle se forme à l’ébénisterie dans les Alpes au cœur de la Vallée de L’Ubaye.
 **Charlotte** est *designer et ébéniste belge*. 
 Après des études de design industriel à Liège puis de mobilier à Florence, 
 c’est en France qu’elle se forme à l’ébénisterie dans les Alpes au cœur de la Vallée de L’Ubaye. 
