@@ -2,7 +2,7 @@
 title: LES VOISINS D'ETABLIS
 weight: 5
 description: |-
-  **bois massif • créations • savoir-faire**
+  **design • ingénierie • ébénisterie**
 ---
 
 **Charlotte** est *designeur et ébéniste belge*.
@@ -22,3 +22,9 @@ Frêne, noyer, chêne, orme ou mélèze, la sélection et l’association d’es
 *Table, assise, lampe, miroir, plateau, meuble* ; les débuts d’une heureuse et audacieuse collaboration à suivre :)
 
 Nous contacter : **voisinsdetablis@gmail.com**
+
+***Nos créations :*** 
+**[MIJO](https://1roue2mains.github.io/oeuvres/miroir/)**, le miroir.
+**[AQUI](https://1roue2mains.github.io/oeuvres/plateau/)**, le plateau.
+**[LUPIA](https://1roue2mains.github.io/oeuvres/lampe/)**, la lampe.
+**[NOMADE](https://1roue2mains.github.io/oeuvres/planches/)**, la planche.
