@@ -1,5 +1,5 @@
 ---
-title: LE MONO D'ANTAN
+title: Le Mono d'Antan
 weight: 1
 essence: robinier,frene, noyer
 description: |-
@@ -8,13 +8,11 @@ description: |-
 
 Tout est parti d'une promesse. Celle de fabriquer un monocycle en bois à mes neveux.
 
-Finalement un petit défi et une succession de découvertes et de rencontres extraordinaires.
+La promesse s'est transformée en un petit défi et une succession de découvertes et de rencontres passionnantes.
 Et depuis juin 2025, il roule. Sans pneu. Sans chichi.
 
-**LE MONO D'ANTAN**.
+Le Mono d'Antan.
 
-*Prix : sur demande.*
-
-> *Vous savez, questionner le monocycle je pense que c'est avant tout redéfinir la notion de progrès.
-> Par progrès, j'entends ce mouvement que nous cherchons en vain depuis la préhistoire.*
-> **Thomas, lors d'un détour en Névachie.**
+> Vous savez questionner le monocycle je pense que c'est avant tout redéfinir la notion de progrès.
+> Par progrès, j'entends ce mouvement que nous cherchons en vain depuis la préhistoire.
+> **Mon ami Thomas, lors d'un détour en Névachie.**
