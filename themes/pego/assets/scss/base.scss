@@ -42,6 +42,14 @@
     color: #000;
   }
 
+  .home header a {
+    color: #fff;
+  }
+
+  .home header a:hover {
+    text-decoration: none;
+  }
+
   .logo {
     font-weight: 700;
     text-shadow: 2px 1px 4px rgba(0,0,0,0.1);
@@ -306,6 +314,18 @@
   .list-inline > li {
     display: inline-block;
   }
+
+  .nav-lang {
+    z-index: 1;
+    padding: 0.2em 0.4em 0.5em 0.5em;
+    background: rgba(0, 0, 0, 0.05);
+  }
+
+  .home nav-lang {
+
+    background: rgba(0, 0, 0, 0.3);
+  }
+
   .nav-transverse {
     display: block;
     margin-bottom: 2rem;

@@ -2,10 +2,21 @@
   <nav class="main-nav" id="js-navbar">
     <span class="flex align-items enlarge-link">
       <a href="{{ .Site.BaseURL }}{{ .Lang }}">
-        <span class="logo visually-hidden">Aller à l’accueil de {{ .Site.Title }}</span>
-        <span class="logo-image" aria-hidden="true">{{ readFile "static/images/logo-pierrot.svg" | safeHTML }}</span>
+        <span class="logo visually-hidden">{{ i18n "gotohome" .}} {{ .Site.Title }}</span>
+        <span class="logo-image" aria-hidden="true">
+        {{ if eq .Lang "en" }}
+          {{ readFile "static/images/logo-pierrot-en.svg" | safeHTML }}
+        {{- else -}}
+          {{ readFile "static/images/logo-pierrot.svg" | safeHTML }}
+        {{ end }}
+        </span>
       </a>
     </span>
+    {{ if .IsTranslated }}
+      {{ range .Translations }}
+        <p class="nav-lang"><a href="{{ .RelPermalink }}">{{ i18n "linktoalternativeversion" .}}</a></p>
+      {{ end }}
+    {{ end }}
     <ul class="menu" id="js-menu">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}

@@ -21,7 +21,7 @@
   <p>{{ .Description | markdownify }}</p>
 </div>
 {{ partialCached "css.html" "css" "css" }}
-<h2>Mes créations</h2>
+<h2>{{ i18n "mycreation" .}}</h2>
 <div class="grid content-visibility">
   {{/* Shortcodes from page content  */}}
   {{ $counter := 0 }}

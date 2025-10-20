@@ -1,0 +1,12 @@
+- id: home
+  translation: "Accueil"
+- id: gotohome
+  translation: "Aller à l’accueil de"
+- id: gallery
+  translation: "Galerie"
+- id: mycreation
+  translation: "Mes créations"
+- id: support
+  translation: "ME SOUTENIR"
+- id: linktoalternativeversion
+  translation: "Access english version"
