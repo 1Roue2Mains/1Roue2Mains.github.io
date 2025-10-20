@@ -5,11 +5,11 @@
   <div class="section footer">
     <p class="footer-copyright">
       &copy; {{ now.Format "2006" }} &middot;
-      <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      <a href="{{ .Site.BaseURL }}{{ .Lang }}">{{ .Site.Title }}</a>
       {{ with .Site.Params.footer_text | markdownify }}
         <span>&middot; {{ . }}</span>
       {{ end }}
-      - <b><a href="mailto:atelier.roulades@gmail.com">contact : atelier.roulades@gmail.com</a></b>
+      - <b><a href="mailto:atelier.roulades@gmail.com">atelier.roulades@gmail.com</a></b>
     </p>
     {{ if eq .Site.Params.footer_socials true }}
       <div class="footer-socials">

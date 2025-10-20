@@ -1,7 +1,7 @@
 <header class="container">
   <nav class="main-nav" id="js-navbar">
     <span class="flex align-items enlarge-link">
-      <a href="{{ .Site.BaseURL }}">
+      <a href="{{ .Site.BaseURL }}{{ .Lang }}">
         <span class="logo visually-hidden">Aller à l’accueil de {{ .Site.Title }}</span>
         <span class="logo-image" aria-hidden="true">{{ readFile "static/images/logo-pierrot.svg" | safeHTML }}</span>
       </a>
