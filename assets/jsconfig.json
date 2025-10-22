@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../themes/pego/assets/*"
+    "..\\themes\\pego\\assets\\*"
    ]
   }
  }

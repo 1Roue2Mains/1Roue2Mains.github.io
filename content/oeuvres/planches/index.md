@@ -15,3 +15,5 @@ Elles peuvent être utilisées sur les deux faces.
 Finition : huile alimentaire. Entretien aisé.
 
 *Prix sur demande (suivant la taille) - entre 30 et 60 euros TTC.*
+
+**[Une question ? Souhaitez-vous que je vous rappelle pour en parler ?](https://f1fd647b.sibforms.com/serve/MUIFAAmG326ALyvjIkXFyzBfNNQUn3ctZMhhViw8dP5xgG6zG_JRcXBpDgwejUxRs6kJniWOVMOk_kKomP0TveRo-Ma1CzNkw9UtRQle3E7HYuhvItInwEA9aE66lWRdp8qYVCCKnqoXZZoqsDdcbwPX6mexWu2yjQcMgm5PaxwPHGd5vrCLhicBBIxX4i2sEVg_nnLQGMv16_aW)**
