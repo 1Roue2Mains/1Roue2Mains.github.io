@@ -2,30 +2,30 @@
 title: LES VOISINS D'ETABLIS
 weight: 5
 description: |-
-  **design • ingénierie • ébénisterie**
+  **design • engineering • cabinetmaking**
 ---
 
-**Charlotte** est *designer et ébéniste belge*. 
-Après des études de design industriel à Liège puis de mobilier à Florence, 
-c’est en France qu’elle se forme à l’ébénisterie dans les Alpes au cœur de la Vallée de L’Ubaye. 
+**Charlotte** is a Belgian designer and cabinetmaker. 
+After studying industrial design in Liège and furniture design in Florence, 
+she trained in cabinetmaking in France, in the Alps in the heart of the Ubaye Valley. 
 
-**Pierre** est *paysagiste, ingénieur et ébéniste français*.
-Passionné par les ressources locales et les savoir-faire,
-il se forme lui aussi à l’Ecole Supérieure d’Ebénisterie de Haute-Provence.
+**Pierre** is a French landscape architect, engineer and cabinetmaker.
+Passionate about local resources and craftsmanship,
+he also trained at the Ecole Supérieure d'Ebénisterie de Haute-Provence (Higher School of Cabinetmaking in Haute-Provence).
 
-C’est à l’école autour de l’établi que nos deux voisins se rencontrent et partagent l’envie de créer du **mobilier et des objets en bois massif**,
-guidés par leur curiosité et les découvertes qu’ils aiment partager.
-Frêne, noyer, chêne, orme ou mélèze, la sélection et l’association d’essences de caractère nourrissent leur travail de création.
-*Table, assise, lampe, miroir, plateau, meuble* ; les débuts d’une heureuse et audacieuse collaboration à suivre :)
+It was at the school, around the workbench, that our two neighbours met and shared their desire to create **furniture and objects in solid wood**,
+guided by their curiosity and the discoveries they love to share.
+Ash, walnut, oak, elm and larch: the selection and combination of distinctive wood species nourish their creative work.
+*Tables, chairs, lamps, mirrors, trays, furniture*: the beginnings of a happy and daring collaboration to be continued :)
 
-Nous contacter : **voisinsdetablis@gmail.com**
+Contact us: **voisinsdetablis@gmail.com**
 
-***Nos créations :*** 
-**[MIJO](/oeuvres/miroir/)**, le miroir.
-**[AQUI](/oeuvres/plateau/)**, le plateau.
-**[LUPIA](/oeuvres/lampe/)**, la lampe.
-**[NOMADE](/oeuvres/planches/)**, la planche.
+***Our creations:*** 
+**[MIJO](/oeuvres/miroir/)**, the mirror.
+**[AQUI](/oeuvres/plateau/)**, the tray.
+**[LUPIA](/oeuvres/lampe/)**, the lamp.
+**[NOMADE](/oeuvres/planches/)**, the board.
 
-**[TELECHARGER NOTRE PORTFOLIO](assets/Portfolio_2025_VoisinsdEtablis_cp_v3.pdf)**
+**[DOWNLOAD OUR PORTFOLIO](assets/Portfolio_2025_VoisinsdEtablis_cp_v3.pdf)**
 
-**[Une question ? Souhaitez-vous qu'on vous rappelle pour en parler ?](https://f1fd647b.sibforms.com/serve/MUIFAHiPlnQXs66jFHLbWhCpAXOPr-7nFEp-r6B9oHYfGdAH-vGASTUOddtxZoX1aH1-mKZZLWoOOARqKUcPk7flSvOu9VnzgPRLfoLImoF9_Ri5DjdpAHslSS5aYxAMUUr5pPfn2kVYXde5Q9Xk-eerzssBVqOgloe4TI44mYeyW9C9X3Rbp1SLV9rtx5lVydvERhoWNGpuWaOE)**
+**[Any questions? Would you like us to call you back to discuss it?](https://f1fd647b.sibforms.com/serve/MUIFAHiPlnQXs66jFHLbWhCpAXOPr-7nFEp-r6B9oHYfGdAH-vGASTUOddtxZoX1aH1-mKZZLWoOOARqKUcPk7flSvOu9VnzgPRLfoLImoF9_Ri5DjdpAHslSS5aYxAMUUr5pPfn2kVYXde5Q9Xk-eerzssBVqOgloe4TI44mYeyW9C9X3Rbp1SLV9rtx5lVydvERhoWNGpuWaOE)**
