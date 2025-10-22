@@ -4,16 +4,18 @@ weight: 5
 essence: meleze, noyer, frene
 
 description: |-
-  **Essences : Mélèze - Frêne - Noyer** <br/>
-  ***Dim. sur-mesure***
+  **Essences : Larch - Ash - Walnut** <br/>
+  ***Custom sizes***
 ---
 
-**Collection Art de la Table / 2025 • [Les Voisins d’établis](https://1roue2mains.github.io/oeuvres/voisins/)** avec Charlotte, Ebéniste designer.
+**Tableware Collection / 2025 • [Les Voisins d’établis](https://1roue2mains.github.io/oeuvres/voisins/)** with Charlotte, cabinetmaker and designer.
 
-Du débit du bois à la découpe du miroir, les miroirs **MIJO** sont le fruit d'un travail artisanal et sur-mesure.
-Un chanfrein intérieur au rabot à paume pour une finition glacée.
-Rectangulaires ou arrondis, une forme qui convient à votre espace.
-Des miroirs remplaçables en cas de casse.
-Une empreinte d'accroche au clou.
+From cutting the wood to cutting the mirror, **MIJO** mirrors are the result of artisanal, custom-made work.
+An interior chamfer with a palm plane for a glossy finish.
+Rectangular or rounded, a shape to suit your space.
+Mirrors can be replaced if broken.
+A nail hook impression.
 
-*Prix : à partir de 110 euros TTC, dimensions sur-demande.*
+*Price: from $110 including tax, dimensions on request.*
+
+**[Any questions? Would you like me to call you back to discuss it?](https://f1fd647b.sibforms.com/serve/MUIFAHiPlnQXs66jFHLbWhCpAXOPr-7nFEp -r6B9oHYfGdAH-vGASTUOddtxZoX1aH1-mKZZLWoOOARqKUcPk7flSvOu9VnzgPRLfoLImoF9_Ri5DjdpAHslSS5aYxAMUUr5pPfn2kVYXde5Q9Xk -eerzssBVqOgloe4TI44mYeyW9C9X3Rbp1SLV9rtx5lVydvERhoWNGpuWaOE)**
