@@ -1,20 +1,25 @@
 ---
 title: Le Mono d'Antan
 weight: 1
-essence: robinier,frene, noyer
+essence: robinier,frene,noyer
 description: |-
-  **Essences : Frêne - Noyer - Robinier**
+  **Essences : Ash - Walnut - Robinia**
 ---
 
-Tout est parti d'une promesse. Celle de fabriquer un monocycle en bois à mes neveux.
+It all started with a promise. A promise to build a wooden unicycle for my nephews.
 
-La promesse s'est transformée en un petit défi et une succession de découvertes et de rencontres passionnantes.
-Et depuis juin 2025, il roule. Sans pneu. Sans chichi.
+The promise turned into a small challenge and a series of exciting discoveries and encounters.
+And since June 2025, it's been rolling along. No tires. No fuss. Designed and crafted by myself.
 
-Le Mono d'Antan.
+The Mono d'Antan.
 
+**The wheel is made of ash (hub and rims) and black locust (spokes). 
+The fork and saddle are made of ash. The axle and rim are made of steel. 
+It weighs 12.6 kg.**
 
-> Vous savez questionner le monocycle je pense que c'est avant tout redéfinir la notion de progrès.
-> Par progrès, j'entends ce mouvement que nous cherchons en vain depuis la préhistoire.
-> **Thomas Liverzay.**
-
+Some information:
+•    Custom height.
+•    24-inch wheel.
+•    If you ride it, I do not apply any anti-rust treatment.
+•    Choice of wood types for the saddle and pedals.
+•    Oiled finish.
