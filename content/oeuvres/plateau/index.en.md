@@ -3,15 +3,17 @@ title: AQUI
 weight: 3
 essence: chêne, noyer
 description: |-
-  **Essences : Chêne - Noyer**
+  **Essences : Oak - Walnut**
 ---
 
-**Collection Art de la Table / 2025 • [Les Voisins d’établis](https://1roue2mains.github.io/oeuvres/voisins/)** avec Charlotte, Ebéniste designer.
+**Tableware Collection / 2025 • [Les Voisins d’établis](/oeuvres/voisins/)** with Charlotte, cabinetmaker and designer.
 
-Les plateaux de service et présentation **AQUI** sont uniques, réalisées entièrement en bois massif.
-Un fond en chêne ou châtaignier et une alaise arrondie en noyer.
-L'art d'une belle table.
+The **AQUI** serving and presentation trays are unique, made entirely from solid wood.
+An oak or chestnut base and a rounded walnut rim.
+The art of a beautiful table.
 
-Finition : huile alimentaire. 
+Finish: food-grade oil. 
 
-*Prix : 240 euros TTC. - Dessous de verre : à l'unité, 12 euros TTC.*
+*Price: £200 including VAT. - Coasters: £12 each including VAT.*
+
+**[Any questions? Would you like me to call you back to discuss this?](https://f1fd647b.sibforms.com/serve/MUIFAHiPlnQXs66jFHLbWhCpAXOPr-7nFEp -r6B9oHYfGdAH-vGASTUOddtxZoX1aH1-mKZZLWoOOARqKUcPk7flSvOu9VnzgPRLfoLImoF9_Ri5DjdpAHslSS5aYxAMUUr5pPfn2kVYXde5Q9Xk -eerzssBVqOgloe4TI44mYeyW9C9X3Rbp1SLV9rtx5lVydvERhoWNGpuWaOE)**
