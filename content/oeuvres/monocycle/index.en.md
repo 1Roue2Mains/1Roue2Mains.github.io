@@ -13,13 +13,10 @@ And since June 2025, it's been rolling along. No tires. No fuss. Designed and cr
 
 The Mono d'Antan.
 
-**The wheel is made of ash (hub and rims) and black locust (spokes). 
-The fork and saddle are made of ash. The axle and rim are made of steel. 
-It weighs 12.6 kg.**
+**It weighs 12.6 kg. The wheel is made of ash (hub and rims) and black locust (spokes). 
+The fork and saddle are made of ash. The axle and rim are made of steel.**
 
-Some information:
 •    Custom height.
 •    24-inch wheel.
-•    If you ride it, I do not apply any anti-rust treatment.
 •    Choice of wood types for the saddle and pedals.
 •    Oiled finish.
