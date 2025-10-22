@@ -20,3 +20,5 @@ The fork and saddle are made of ash. The axle and rim are made of steel.**
 •    24-inch wheel.
 •    Choice of wood types for the saddle and pedals.
 •    Oiled finish.
+
+If you are interested in, contact to me : **atelier.roulades@gmail.com**
