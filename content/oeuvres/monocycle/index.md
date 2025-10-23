@@ -9,7 +9,8 @@ description: |-
 Tout est parti d'une promesse. Celle de fabriquer un monocycle en bois à mes neveux.
 
 Finalement un petit défi et une succession de découvertes et de rencontres extraordinaires.
-*Et depuis juin 2025, il roule. Sans pneu. Sans chichi.*
+
+*Et depuis juin 2025, [il roule](https://youtu.be/1y1LefkMADA). Sans pneu. Sans chichi.*
 
 **LE MONO D'ANTAN**.
 
