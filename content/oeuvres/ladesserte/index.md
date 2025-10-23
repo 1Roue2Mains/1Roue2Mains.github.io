@@ -10,8 +10,8 @@ A l’heure du travail nomade, **LA VAGABONDE** est le compagnon de route idéal
 <br/> Un véritable *bureau mobile* au quotidien, sans clou ni vis. 
 Une *desserte* aussi, pour hôtels & restaurants à la recherche de mobiliers singuliers.
 
-> Nous réalisons des dessertes en bois massif, entièrement fabriquées à la main en France, dans la pure tradition artisanale.
-> Nos modèles se distinguent notamment par leur roue en bois conçue selon le **savoir-faire ancestral des charrons**, une *signature unique qui allie élégance et authenticité*.
+> Je réalise des dessertes en bois massif, entièrement fabriquées à la main en France, dans la pure tradition artisanale.
+> Mes modèles se distinguent notamment par leur roue en bois conçue selon le **savoir-faire ancestral des charrons**, une *signature unique qui allie élégance et authenticité*.
 > **Chaque desserte est personnalisable** : choix des essences, dimensions, services intégrés au regard de l’usage (café, apéritif, fromages, revues, etc.) et type de roue ; ***de la roue de charrette traditionnelle à des signatures contemporaines***.
 
 *Prix : à partir de 2 000 euros TTC*.
