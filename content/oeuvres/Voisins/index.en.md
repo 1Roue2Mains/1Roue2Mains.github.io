@@ -1,5 +1,5 @@
 ---
-title: LES VOISINS D'ETABLIS
+title: THE NEIGHBOURS OF ETABLI
 weight: 5
 description: |-
   **design • engineering • cabinetmaking**
