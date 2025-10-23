@@ -6,12 +6,12 @@ description: |-
   **Essences : Chêne, Châtaignier - Noyer - Frêne**
 ---
 
-Les années passent et vous récupérez un meuble de Mamie.
+Les années passent et vous récupérez **un meuble de Mamie**.
 
 Vous ne voulez pas le jeter. Même si il ne tient plus debout. Le restaurer ? Le donner ?
-Quand même, c'était dans la chambre de Mamie.
+Quand même, **c'était dans sa chambre, à Mamie**.
 
-Contactez-moi : je le démonte et récupère ce qui est récupérable pour créer un élément de mobilier contemporain pour votre salon.
+Contactez-moi : je le démonte et récupère ce qui est récupérable pour *créer un élément de mobilier contemporain pour votre salon*.
 
 **Miroir, plateau, meuble, tout est possible.** 
 
