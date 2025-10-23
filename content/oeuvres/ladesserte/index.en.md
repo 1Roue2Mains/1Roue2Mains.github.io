@@ -1,5 +1,5 @@
 ---
-title: LA VAGABONDE
+title: THE VAGABOND
 weight: 3
 essence: robinier,frene,noyer,orme
 description: |-
