@@ -4,6 +4,8 @@
   translation: "Gallery"
 - id: mycreation
   translation: "My creations"
+- id: smallstory
+  translation: "The small story"
 - id: support
   translation: "SUPPORT ME"
 - id: linktoalternativeversion

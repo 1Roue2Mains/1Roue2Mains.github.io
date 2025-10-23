@@ -6,6 +6,8 @@
   translation: "Galerie"
 - id: mycreation
   translation: "Mes créations"
+- id: smallstory
+  translation: "La petite histoire"
 - id: support
   translation: "ME SOUTENIR"
 - id: linktoalternativeversion
