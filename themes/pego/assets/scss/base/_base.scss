@@ -109,6 +109,14 @@ h5 {
   @include font-size('base');
 }
 
+.font-small {
+  font-size: 75%;
+}
+
+.font-medium {
+  font-size: 90%;
+}
+
 h6 {
   @include font-size('sm');
 }

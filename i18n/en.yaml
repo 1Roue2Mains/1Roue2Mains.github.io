@@ -10,3 +10,5 @@
   translation: "SUPPORT ME"
 - id: linktoalternativeversion
   translation: "Accéder à la version française"
+- id: skiplinkcontent
+  translation: Cain content

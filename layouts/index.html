@@ -44,7 +44,9 @@
       </figure>
     </div>
     <div class="card-back enlarge-link">
-      <h3><a href="{{ .Permalink }}" class="zig-zag">{{ .Title }}</a></h3>
+      {{- $wordlen := "" -}}
+      {{- range (split .Title " ") }}{{ $wordlen = cond (gt (len .) $wordlen ) (len .) $wordlen }}{{ end }}
+      <h3><a href="{{ .Permalink }}" class="zig-zag{{ cond (gt $wordlen 10 ) " font-small" (cond (gt $wordlen 7 ) " font-medium" "") }}">{{ .Title }}</a></h3>
       <p>{{ .Description | markdownify }}</p>
     </div>
   </div>

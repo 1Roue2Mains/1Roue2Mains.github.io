@@ -12,3 +12,5 @@
   translation: "ME SOUTENIR"
 - id: linktoalternativeversion
   translation: "Access english version"
+- id: skiplinkcontent
+  translation: Contenu principal
