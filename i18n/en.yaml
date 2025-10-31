@@ -11,4 +11,6 @@
 - id: linktoalternativeversion
   translation: "Accéder à la version française"
 - id: skiplinkcontent
-  translation: Cain content
+  translation: Main content
+- id: questiontext
+  translation: Any questions? Would you like me to call you back to discuss it?
